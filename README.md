@@ -11,7 +11,7 @@ The coding challenge requires the following to be installed on your development 
 1. Fork the `javascript-developer-test` repository to your personal github account.
 2. Clone the `javascript-developer-test` repository from your personal github account onto your development machine.
 3. Open a terminal and `cd` into the root directory of the `javascript-developer-test` repository.
-4. Execute `npm install` in the terminal.
+D. Execute `npm install` in the terminal.
 
 ## Challenge Instructions
 
