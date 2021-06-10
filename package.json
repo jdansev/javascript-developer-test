@@ -6,7 +6,8 @@
   "author": "Smokeball Development Team",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node src/index"
   },
   "dependencies": {
     "jest": "26.1.0"
